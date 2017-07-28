@@ -1,0 +1,2 @@
+# EmblemDelet
+Delets guild emblem
